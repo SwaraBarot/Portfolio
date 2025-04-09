@@ -1,6 +1,6 @@
-#Global Superstore Dashboard 
+Global Superstore Dashboard 
 
-        Developed an interactive Power BI dashboard to analyze over 5,900 orders, totaling $1.57M in sales and $175K in profit, across different regions and categories.
+Developed an interactive Power BI dashboard to analyze over 5,900 orders, totaling $1.57M in sales and $175K in profit, across different regions and categories.
   
 	Created dynamic filter buttons (Region-wise: Central, East, South, West) to allow users to drill down into geographic performance.
  
